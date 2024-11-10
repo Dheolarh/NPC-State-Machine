@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25f7bf4d-4e87-4d3c-9f6f-bd123f4b5bee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/AbstractState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/AttackState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/BaseStateMachine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/ChaseState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/FleeState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/IdleState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/NPC State Machine.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/PatrolState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NPC State Machine/StateMachine.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2oeDxQn89bSkSA46B2gLzq9GuWW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\adeju\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\adeju\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\adeju\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25f7bf4d-4e87-4d3c-9f6f-bd123f4b5bee" name="Changes" comment="" />
+      <created>1731221394924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731221394924</updated>
+      <workItem from="1731221399969" duration="947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
